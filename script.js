@@ -8,7 +8,7 @@ if (num3 > largest) largest = num3;
 if (num4 > largest) largest = num4;
 if (num5 > largest) largest = num5;
 
-alert("The largest number is: " + largest);
+alert("Eng kattasi: " + largest);
 
 //13 - vazifa
 
